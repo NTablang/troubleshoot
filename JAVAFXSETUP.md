@@ -80,3 +80,6 @@ Links of where I got help from:
 [JAVA 16 Support on Eclipse] https://marketplace.eclipse.org/content/java-16-support-eclipse-2021-03-419
 
 [Misc] https://openjfx.io/openjfx-docs/
+
+[Holy GRAIL] https://www.youtube.com/watch?v=bC4XB6JAaoU
+
