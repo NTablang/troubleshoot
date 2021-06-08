@@ -46,7 +46,9 @@ Eclipse-Workspace
             |
             |
             \- HelloWorld.java
-           
+
+For these following sections, make sure you run your code into the eclipse IDE first.
+  
 (4) This is the fourth option. 
 As soon as you open the terminal (the cd default should be in /Users/):
 (Also, just disregard the brackets and its contents)
