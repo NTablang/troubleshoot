@@ -1,8 +1,8 @@
 # Executing compiled .java files using Mac Terminal
 NOTE: please open this via raw form
 
-While I was first starting out through an IDE like Eclipse, I've tried to compile and execute .java files using the Mac Terminal.
-Running it through the IDE is just perfectly fine; running it through the Mac terminal was a different story.
+While I was first starting out through an IDE like Eclipse, I've tried to compile and execute .java files using the Mac Terminal.    
+Running it through the IDE is just perfectly fine; running it through the Mac terminal was a different story.  
 Through the mac terminal if you use javac <fileName>.java, it results to a successful compilation and the existence of a .class file.
 
 Whether you're using a java version of 1.8 (aka simply '8') or higher versions of Java, running the java <fileName> command might lead to an
