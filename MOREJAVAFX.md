@@ -14,6 +14,6 @@ DEALING WITH GUI JAVA FX.
   - Add this on the VM arguments (remove <,> symbols and include the two dashes in front):
   --module-path <path/tojavafx/sdk> --add-modules javafx.controls,javafx.fxml  
   - Uncheck these boxes:  
-  - Use the -XstartOnFirstThread argument when launching with SWT
-  - Use the -XX: +ShowCodeDetailsInExceptionMessages argument when launching
-  - Use @argfile when launching
+    - Use the -XstartOnFirstThread argument when launching with SWT
+    - Use the -XX: +ShowCodeDetailsInExceptionMessages argument when launching
+    - Use @argfile when launching
