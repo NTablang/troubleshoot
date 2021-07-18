@@ -16,4 +16,5 @@ https://www.youtube.com/watch?v=pZmsjkIGT4U
 Memory Map Diagrams. Courtesy of University of Maryland College Park CS
 http://www.cs.umd.edu/~nelson/classes/resources/MemoryMapsInformation/MemoryMapsInformation.pdf    
     
-    
+Shallow Copy vs Deep Copy   
+https://dzone.com/articles/java-copy-shallow-vs-deep-in-which-you-will-swim   
