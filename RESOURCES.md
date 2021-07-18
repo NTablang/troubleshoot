@@ -13,3 +13,7 @@ https://www.quora.com/Do-you-include-the-constructors-in-a-UML-class-diagram-as-
 Automatically generate UML Diagrams from any JavaCode (Tutorial)   
 https://www.youtube.com/watch?v=pZmsjkIGT4U    
     
+Memory Map Diagrams. Courtesy of University of Maryland College Park CS
+http://www.cs.umd.edu/~nelson/classes/resources/MemoryMapsInformation/MemoryMapsInformation.pdf    
+    
+    
