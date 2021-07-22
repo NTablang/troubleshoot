@@ -24,3 +24,6 @@ https://www.geeksforgeeks.org/difference-between-method-overloading-and-method-o
   
 Java Interface Tutorial   
 https://www.youtube.com/watch?v=Yat8l37XGFA   
+   
+Inner Class Java Tutorial - How to Make and Access Inner Classes
+https://www.youtube.com/watch?v=Etk4zQHBplI
