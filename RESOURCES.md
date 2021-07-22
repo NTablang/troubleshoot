@@ -21,3 +21,6 @@ https://dzone.com/articles/java-copy-shallow-vs-deep-in-which-you-will-swim
    
 Difference between Method Overloading and Method Overriding in Java   
 https://www.geeksforgeeks.org/difference-between-method-overloading-and-method-overriding-in-java/   
+  
+Java Interface Tutorial   
+https://www.youtube.com/watch?v=Yat8l37XGFA   
