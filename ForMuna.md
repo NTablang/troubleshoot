@@ -5,3 +5,4 @@
 3.) Build path -> Configure build path -> Libraries -> press modulepath -> add library -> user library -> select your compatible javafx to your java jre version   
 4.) Run Configurations -> Arguments -> Under VM arguments: paste the following   
 --module-path PATH/TO/JAVAFX/SDK/LIB --add-modules javafx.controls,javafx.fxml   
+Under the VM arguments, make sure that all boxes are unchecked -- especially when dealing with javafx main methods. 
